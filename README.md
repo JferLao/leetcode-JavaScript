@@ -40,8 +40,6 @@
 
 [Leetcode-217-存在重复](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D.js)
 
-[Leetcode-206-反转链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
-
 [Leetcode-234-回文链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-234-%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.js)
 
 [Leetcode-237-删除链表中的节点](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-237-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.js)
