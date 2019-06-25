@@ -12,6 +12,8 @@
 
 [Leetcode-019-删除链表的倒数第N个节点](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-19-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.js)
 
+[Leetcode-021-合并两个有序链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-21-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
+
 [Leetcode-026-从排序数组中删除重复项](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-26-%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9.js)
 
 [Leetcode-028-实现strStr](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-28-%E5%AE%9E%E7%8E%B0strStr.js)
@@ -30,9 +32,17 @@
 
 [Leetcode-137-只出现一次的数](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-137-%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0.js)
 
+[leetcode-141-环形链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/leetcode-141-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
+
 [Leetcode-189-旋转数组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-189-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.js)
 
+[Leetcode-206-反转链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
+
 [Leetcode-217-存在重复](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D.js)
+
+[Leetcode-206-反转链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
+
+[Leetcode-234-回文链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-234-%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.js)
 
 [Leetcode-237-删除链表中的节点](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-237-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.js)
 
