@@ -26,6 +26,8 @@
 
 [Leetcode-066-加一](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-66-%E5%8A%A0%E4%B8%80.js)
 
+[Leetcode-88-合并两个有序数组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-88-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.js)
+
 [Leetcode-101-对称二叉树](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-101-%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.js)
 
 [Leetcode-102-二叉树的层次遍历](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-102-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.js)
@@ -51,6 +53,8 @@
 [Leetcode-237-删除链表中的节点](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-237-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.js)
 
 [Leetcode-242-有效的字母异位词](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js)
+
+[Leetcode-278-第一个错误的版本](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-278-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.js)
 
 [Leetcode-283-移动零](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-283-%E7%A7%BB%E5%8A%A8%E9%9B%B6.js)
 
