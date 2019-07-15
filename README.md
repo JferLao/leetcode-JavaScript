@@ -22,7 +22,7 @@
 
 [Leetcode-026-从排序数组中删除重复项](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-26-%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9.js)
 
-(Leetcode-027-移除元素)[https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.js]
+[Leetcode-027-移除元素](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.js)
 
 [Leetcode-028-实现strStr](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-28-%E5%AE%9E%E7%8E%B0strStr.js)
 
