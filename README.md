@@ -14,11 +14,15 @@
 
 [Leetcode-014-最长公共前缀](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-14-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.js)
 
+[Leetcode-015-三数之和](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-15-%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.js)
+
 [Leetcode-019-删除链表的倒数第N个节点](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-19-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.js)
 
 [Leetcode-021-合并两个有序链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-21-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
 
 [Leetcode-026-从排序数组中删除重复项](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-26-%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9.js)
+
+(Leetcode-027-移除元素)[https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.js]
 
 [Leetcode-028-实现strStr](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-28-%E5%AE%9E%E7%8E%B0strStr.js)
 
