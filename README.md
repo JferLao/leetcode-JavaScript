@@ -30,6 +30,10 @@
 
 [Leetcode-028-实现strStr](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-28-%E5%AE%9E%E7%8E%B0strStr.js)
 
+[Leetcode-033-搜索旋转排序数组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-33-%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.js)
+
+[Leetcode-034-在排序数组中查找元素的第一个和最后一个位置](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-34-%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.js)
+
 [Leetcode-035-搜索插入位置](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-35-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.js)
 
 [Leetcode-036-有效的数独](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-36-%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.js)
