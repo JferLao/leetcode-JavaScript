@@ -85,3 +85,7 @@
 [Leetcode-350-两个数组的交集 II](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-350-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.js)
 
 [Leetcode-387-字符串中的第一个唯一字符](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-387-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.js)
+
+[Leetcode-557-反转字符串中的单词](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-557-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.js)
+
+[Leetcode-696-计数二进制子串](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-696-%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2.js)
