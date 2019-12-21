@@ -32,7 +32,7 @@ var countBinarySubstrings = function(s) {
         }
     }
     return count
-
+}
     
 
 
