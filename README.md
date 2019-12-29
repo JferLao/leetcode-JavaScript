@@ -52,6 +52,8 @@
 
 [Leetcode-88-合并两个有序数组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-88-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.js)
 
+[Leetcode-89-格雷编码](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-89-%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.js)
+
 [Leetcode-101-对称二叉树](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-101-%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.js)
 
 [Leetcode-102-二叉树的层次遍历](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-102-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.js)
