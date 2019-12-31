@@ -68,6 +68,8 @@
 
 [leetcode-141-环形链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/leetcode-141-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
 
+[leetcode-169-多数元素](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-169-%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.js)
+
 [Leetcode-189-旋转数组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-189-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.js)
 
 [Leetcode-206-反转链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
