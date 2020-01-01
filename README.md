@@ -10,6 +10,8 @@
 
 [Leetcode-008-字符串转换整数](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-8-%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0.js)
 
+[Leetcode-010-正则表达式匹配](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-10-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.js)
+
 [Leetcode-011-盛最多水的容器](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-11-%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.js)
 
 [Leetcode-014-最长公共前缀](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-14-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.js)
