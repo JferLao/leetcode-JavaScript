@@ -46,6 +46,8 @@
 
 [Leetcode-040-组合总和 II](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-40-%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.js)
 
+[Leetcode-41-缺失的第一个正数](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-41-%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.js)
+
 [Leetcode-048-旋转图像](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-48-%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.js)
 
 [Leetcode-053-最大子序和](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.js)
