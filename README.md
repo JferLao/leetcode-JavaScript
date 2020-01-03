@@ -2,6 +2,8 @@
 记录自己用JavaScript写LeetCode算法的过程(不定期更新)
 
 # 下面按顺序排列
+[Leetcode-LCP1-猜数字](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-LCP1-%E7%8C%9C%E6%95%B0%E5%AD%97.js)
+
 [Leetcode-001-两数之和](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.js)
 
 [Leetcode-003-无重复字符的最长子串](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-003-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.js)
