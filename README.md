@@ -118,3 +118,4 @@
 
 [Leetcode-922-按奇偶排序数组 II](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-922-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.js)
 
+[Leetcode-1295-同级位数为偶数的数字](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1295-%E5%90%8C%E7%BA%A7%E4%BD%8D%E6%95%B0%E4%B8%BA%E5%81%B6%E6%95%B0%E7%9A%84%E6%95%B0%E5%AD%97.js)
