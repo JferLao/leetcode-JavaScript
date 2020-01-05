@@ -114,8 +114,12 @@
 
 [Leetcode-696-计数二进制子串](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-696-%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2.js)
 
+[Leetcode-771-宝石与石头](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-771-%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4.js)
+
 [Leetcode-914-卡牌分组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-914-%E5%8D%A1%E7%89%8C%E5%88%86%E7%BB%84.js)
 
 [Leetcode-922-按奇偶排序数组 II](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-922-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.js)
+
+[Leetcode-1108-IP地址无效化.](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1108-IP%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96.js)
 
 [Leetcode-1295-同级位数为偶数的数字](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1295-%E5%90%8C%E7%BA%A7%E4%BD%8D%E6%95%B0%E4%B8%BA%E5%81%B6%E6%95%B0%E7%9A%84%E6%95%B0%E5%AD%97.js)
