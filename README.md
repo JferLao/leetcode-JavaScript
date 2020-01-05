@@ -122,4 +122,6 @@
 
 [Leetcode-1108-IP地址无效化.](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1108-IP%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96.js)
 
+[Leetcode-1281-整数的各位积和之差](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1281-%E6%95%B4%E6%95%B0%E7%9A%84%E5%90%84%E4%BD%8D%E7%A7%AF%E5%92%8C%E4%B9%8B%E5%B7%AE.js)
+
 [Leetcode-1295-同级位数为偶数的数字](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1295-%E5%90%8C%E7%BA%A7%E4%BD%8D%E6%95%B0%E4%B8%BA%E5%81%B6%E6%95%B0%E7%9A%84%E6%95%B0%E5%AD%97.js)
