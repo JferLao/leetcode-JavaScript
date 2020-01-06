@@ -122,6 +122,8 @@
 
 [Leetcode-1108-IP地址无效化.](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1108-IP%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96.js)
 
+[Leetcode-1266-访问所有点的最小时间](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1266-%E8%AE%BF%E9%97%AE%E6%89%80%E6%9C%89%E7%82%B9%E7%9A%84%E6%9C%80%E5%B0%8F%E6%97%B6%E9%97%B4.js)
+
 [Leetcode-1281-整数的各位积和之差](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1281-%E6%95%B4%E6%95%B0%E7%9A%84%E5%90%84%E4%BD%8D%E7%A7%AF%E5%92%8C%E4%B9%8B%E5%B7%AE.js)
 
 [Leetcode-1290-二进制链表转整数](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1290-%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%95%B4%E6%95%B0.js)
