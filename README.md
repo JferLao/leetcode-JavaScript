@@ -124,4 +124,6 @@
 
 [Leetcode-1281-整数的各位积和之差](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1281-%E6%95%B4%E6%95%B0%E7%9A%84%E5%90%84%E4%BD%8D%E7%A7%AF%E5%92%8C%E4%B9%8B%E5%B7%AE.js)
 
+[Leetcode-1290-二进制链表转整数](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1290-%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%95%B4%E6%95%B0.js)
+
 [Leetcode-1295-同级位数为偶数的数字](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1295-%E5%90%8C%E7%BA%A7%E4%BD%8D%E6%95%B0%E4%B8%BA%E5%81%B6%E6%95%B0%E7%9A%84%E6%95%B0%E5%AD%97.js)
