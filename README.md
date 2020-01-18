@@ -118,6 +118,8 @@
 
 [Leetcode-605-种花问题](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-605-%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.js)
 
+[Leetcode-621-任务调度器](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-621-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.js)
+
 [Leetcode-622-设计循环队列](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-622-%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97.js)
 
 [Leetcode-682-棒球比赛](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-682-%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.js)
