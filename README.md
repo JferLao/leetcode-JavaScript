@@ -80,6 +80,8 @@
 
 [leetcode-141-环形链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/leetcode-141-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
 
+[leetcode-148-链表排序](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-148-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.js)
+
 [Leetcode-164-最大间距](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-164-%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.js)
 
 [leetcode-169-多数元素](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-169-%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.js)
