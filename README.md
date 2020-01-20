@@ -96,6 +96,8 @@
 
 [Leetcode-217-存在重复](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-217-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D.js)
 
+[Leetcode-232-用栈实现队列](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-232-%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.js)
+
 [Leetcode-234-回文链表](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-234-%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.js)
 
 [Leetcode-237-删除链表中的节点](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-237-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.js)
