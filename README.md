@@ -118,6 +118,8 @@
 
 [Leetcode-459-重复的子字符串](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-459-%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.js)
 
+[Leetcode-496-下一个更大元素I](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-496-%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0I.js)
+
 [Leetcode-557-反转字符串中的单词](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-557-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.js)
 
 [Leetcode-605-种花问题](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-605-%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.js)
