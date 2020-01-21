@@ -56,6 +56,8 @@
 
 [Leetcode-053-最大子序和](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.js)
 
+[Leetcode-054-螺旋矩阵](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-54-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.js)
+
 [Leetcode-059-螺旋矩阵2](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-59-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B52.js)
 
 [Leetcode-066-加一](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-66-%E5%8A%A0%E4%B8%80.js)
