@@ -167,3 +167,5 @@
 [Leetcode-1304-和为零的N个唯一整数.js](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1304-%E5%92%8C%E4%B8%BA%E9%9B%B6%E7%9A%84N%E4%B8%AA%E5%94%AF%E4%B8%80%E6%95%B4%E6%95%B0.js)
 
 [Leetcode-1305-两棵二叉搜索树中的所有元素](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1305-%E4%B8%A4%E6%A3%B5%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E5%85%83%E7%B4%A0.js)
+
+[Leetcode-1323-6 和 9 组成的最大数字](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-1323-6%20%E5%92%8C%209%20%E7%BB%84%E6%88%90%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E5%AD%97.js)
