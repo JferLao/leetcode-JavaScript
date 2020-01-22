@@ -31,7 +31,8 @@ var isValidBST = function(root) {
         return isvalid(node.left, node.val, min) && isvalid(node.right, max, node.val);
     }
 };
-
+// 执行用时 :72 ms, 在所有 JavaScript 提交中击败了85.40%的用户
+// 内存消耗 :37.3 MB, 在所有 JavaScript 提交中击败了50.97%的用户
 
 //****************************************************************************************
 class Node {
