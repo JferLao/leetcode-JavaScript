@@ -148,6 +148,8 @@
 
 [Leetcode-860-柠檬水找零](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-860-%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.js)
 
+[Leetcode-905-按奇偶排序数组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-905-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.js)
+
 [Leetcode-914-卡牌分组](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-914-%E5%8D%A1%E7%89%8C%E5%88%86%E7%BB%84.js)
 
 [Leetcode-922-按奇偶排序数组 II](https://github.com/JferLao/leetcode-JavaScript/blob/master/Leetcode-922-%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.js)
